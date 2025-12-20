@@ -1,40 +1,213 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">"Full-Stack Developer specializing in AI and Computer Vision, building scalable products from model to deployment."</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20|%20AI/ML%20Enthusiast%20|%20IIIT%20Guwahati&descAlignY=51&descAlign=50" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumarcoder21&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumarcoder21" /> </p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+%7C+AI%2FML+%7C+Problem+Solver+%F0%9F%92%A1;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkumarcoder21" alt="abhishekkumarcoder21" /></a> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Metro App**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on **Github**
-
-- 👨‍💻 All of my projects are available at [https://abhishek-kumar-portfolio-zzaj.vercel.app/](https://abhishek-kumar-portfolio-zzaj.vercel.app/)
-
-- 💬 Ask me about **React.js, Next.js, React Native**
-
-- 📫 How to reach me **abhishek.kumar.work27@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/11abhishek-kumar/](https://www.linkedin.com/in/11abhishek-kumar/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/11abhishek-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="11abhishek-kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zany_wave_37" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zany_wave_37" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhishek.kumar.tech.27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhishek.kumar.tech.27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhishek_kumar_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek_kumar_27" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abhishekku4ta3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhishekku4ta3/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekkumarcoder21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/abhishekkumarcoder21?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/abhishekkumarcoder21?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkumarcoder21&show_icons=true&locale=en&layout=compact" alt="abhishekkumarcoder21" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkumarcoder21&show_icons=true&locale=en" alt="abhishekkumarcoder21" /></p>
+```javascript
+const abhishek = {
+    name: "Abhishek Kumar",
+    location: "India 🇮🇳",
+    education: "B.Tech @ IIIT Guwahati",
+    role: "Full Stack Engineer",
+    specialization: ["AI", "ML", "Deep Learning", "Generative AI"],
+    currentFocus: "Building scalable applications with AI integration",
+    lifePhilosophy: "Code is poetry written in logic",
+    funFact: "I debug code faster than I debug my life 😄"
+};
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumarcoder21&" alt="abhishekkumarcoder21" /></p>
+<div align="center">
+
+### 🌟 "Striving to make the impossible, possible through code" 🌟
+
+</div>
+
+---
+
+## 🚀 Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 🤖 AI/ML/DL
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkumarcoder21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumarcoder21&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumarcoder21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumarcoder21&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumarcoder21&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💡 Coding Profiles
+
+<div align="center">
+
+| Platform | Profile | Stats |
+|----------|---------|-------|
+| 🟠 **LeetCode** | [Your Profile](#) | ![LeetCode Stats](https://img.shields.io/badge/Problems%20Solved-000+-orange?style=for-the-badge&logo=leetcode) |
+| 🟢 **GeeksforGeeks** | [Your Profile](#) | ![GFG Stats](https://img.shields.io/badge/Problems%20Solved-000+-darkgreen?style=for-the-badge&logo=geeksforgeeks) |
+| 🟤 **CodeChef** | [Your Profile](#) | ![CodeChef Stats](https://img.shields.io/badge/Rating-0000-brown?style=for-the-badge&logo=codechef) |
+| 🔵 **Codeforces** | [Your Profile](#) | ![CF Stats](https://img.shields.io/badge/Rating-0000-blue?style=for-the-badge&logo=codeforces) |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/11abhishek-kumar/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/abhishek_aiml27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.aiml06@gmail.com)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Abhishek))
+    Full Stack Development
+      React & Next.js
+      Node.js Backend
+      Database Design
+    AI & Machine Learning
+      Deep Learning
+      Generative AI
+      NLP
+    Competitive Programming
+      DSA in C++
+      Problem Solving
+      Algorithm Design
+    Open Source
+      Contributing
+      Building
+      Learning
+```
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhishekkumarcoder21/abhishekkumarcoder21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+
+🎯 Exploring new AI models and frameworks  
+📚 Reading tech blogs and research papers  
+🏋️ Staying fit and healthy  
+🎵 Listening to music while debugging  
+🌍 Contributing to open source  
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Open for Collaborations & Opportunities
+
+**Let's build something amazing together!** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+**⭐ From [abhishekkumarcoder21](https://github.com/abhishekkumarcoder21) with ❤️**
+
+</div>
