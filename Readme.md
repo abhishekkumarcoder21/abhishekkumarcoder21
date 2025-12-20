@@ -1,8 +1,11 @@
 <!-- ===================== HERO ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=56&duration=2200&pause=700&color=00E6FF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=180&lines=ABHISHEK+KUMAR;AI+%7C+ML+%7C+GenAI+Engineer;Software+Engineer+in+Progress;Building+Systems%2C+Not+Just+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=56&duration=2200&pause=700&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=190&lines=ABHISHEK+KUMAR;AI+%7C+ML+%7C+GenAI+Engineer" />
 </h1>
+
+
+
 
 <h3 align="center">
 🚀 Consistency > Motivation | Depth > Hype | Systems > Shortcuts
