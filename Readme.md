@@ -91,7 +91,7 @@ const abhishek = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekkumarcoder21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumarcoder21&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=abhishekkumarcoder21&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@ const abhishek = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumarcoder21&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumarcoder21&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
