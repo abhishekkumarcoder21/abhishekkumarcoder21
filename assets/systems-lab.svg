@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Systems under load</title>
+  <desc id="desc">A minimal architectural diagram showing an event entering a pipeline and branching into state, workers, and observability.</desc>
+  <rect width="1200" height="320" rx="20" fill="#111318"/>
+  <path d="M48 40H1152M48 280H1152" stroke="#2a2e36"/>
+  <g fill="#8b93a1" font-family="monospace" font-size="13">
+    <text x="52" y="31">/systems-lab/01</text>
+    <text x="1045" y="31">signal → state</text>
+  </g>
+  <g stroke="#f2b84b" stroke-width="2" fill="none">
+    <path d="M100 160H300"/>
+    <path d="M420 160H550V95H700"/>
+    <path d="M550 160H700"/>
+    <path d="M550 160V225H700"/>
+    <path d="M820 95H1010"/>
+    <path d="M820 160H1010"/>
+    <path d="M820 225H1010"/>
+  </g>
+  <g fill="#111318" stroke="#f2b84b" stroke-width="2">
+    <rect x="100" y="125" width="200" height="70" rx="10"/>
+    <rect x="300" y="125" width="120" height="70" rx="10"/>
+    <rect x="700" y="60" width="120" height="70" rx="10"/>
+    <rect x="700" y="125" width="120" height="70" rx="10"/>
+    <rect x="700" y="190" width="120" height="70" rx="10"/>
+    <rect x="1010" y="60" width="120" height="70" rx="10"/>
+    <rect x="1010" y="125" width="120" height="70" rx="10"/>
+    <rect x="1010" y="190" width="120" height="70" rx="10"/>
+  </g>
+  <g fill="#e8ecf1" font-family="monospace" font-size="14" text-anchor="middle">
+    <text x="200" y="154">event / request</text><text x="200" y="176" fill="#8b93a1">untrusted input</text>
+    <text x="360" y="165">guardrails</text>
+    <text x="760" y="90">state</text><text x="760" y="112" fill="#8b93a1">truth</text>
+    <text x="760" y="155">workers</text><text x="760" y="177" fill="#8b93a1">recovery</text>
+    <text x="760" y="220">signals</text><text x="760" y="242" fill="#8b93a1">metrics</text>
+    <text x="1070" y="90">persist</text><text x="1070" y="112" fill="#8b93a1">Postgres</text>
+    <text x="1070" y="155">dispatch</text><text x="1070" y="177" fill="#8b93a1">Redis</text>
+    <text x="1070" y="220">observe</text><text x="1070" y="242" fill="#8b93a1">Prometheus</text>
+  </g>
+  <circle cx="550" cy="160" r="5" fill="#54d6d0"/>
+</svg>

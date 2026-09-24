@@ -1,143 +1,136 @@
-<!-- ===================== HERO ===================== -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=56&duration=2200&pause=700&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=190&lines=ABHISHEK+KUMAR;AI+%7C+ML+%7C+GenAI+Engineer" />
-</h1>
-
-
-
-
-<h3 align="center">
-🚀 Consistency > Motivation | Depth > Hype | Systems > Shortcuts
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekkumarcoder21&label=Profile%20Views&color=0ef&style=for-the-badge" />
-</p>
-
----
-
-<!-- ===================== STATS ===================== -->
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekkumarcoder21&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkumarcoder21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumarcoder21&theme=tokyo-night&area=true&hide_border=true&radius=14" height="230"/>
-</div>
-
----
-
-<!-- ===================== ABOUT ===================== -->
-
-## 🧠 About Me
-
-```txt
-I don’t restart.
-I don’t disappear.
-I don’t chase shortcuts.
-
-I show up daily and build.
-```
-
-* 🧩 Strong foundation in **DSA & Core CS**
-* 🤖 Focused on **AI / ML / Deep Learning / GenAI**
-* 🏗️ Builder mindset — real systems, real constraints
-* 📈 Long-term thinker with disciplined execution
-* 🔥 Goal: become dangerous with real skills, not noise
-
-> I’m not preparing for interviews.
-> I’m preparing for responsibility.
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,git,linux&theme=dark" height="42"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=js,react,redux,html,css&theme=dark" height="42"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,docker&theme=dark" height="42"/>
+<img src="assets/systems-lab.svg" alt="Minimal systems diagram: an event passes through guardrails into state, workers, and observability" width="100%" />
+
+# Abhishek Kumar
+
+### Backend, distributed systems, and AI-assisted developer tools
+
+I build software around the parts that are easy to hand-wave: **coordination, consistency, isolation, recovery, and useful feedback**.
+
+[Projects](#selected-work) · [Systems notes](#why-these-projects) · [Portfolio](https://github.com/abhishekkumarcoder21/abhishek_kumar_portfolio) · [GitHub](https://github.com/abhishekkumarcoder21)
 
 </div>
 
 ---
 
-<!-- ===================== PROFILES ===================== -->
+## Selected work
 
-## 🔗 Coding & Professional Profiles
+These are the projects that best show how I think, not simply the projects with the most activity.
 
-* 💼 **LinkedIn** → *add link*
-* 🧠 **LeetCode** → *add link*
-* 🟢 **GeeksforGeeks** → *add link*
-* 🔵 **Codeforces** → *add link*
-* 🟠 **CodeChef** → *add link*
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### [Distributed Workflow Engine](https://github.com/abhishekkumarcoder21/Distributed-Workflow-Engine)
 
-<!-- ===================== PROJECTS ===================== -->
+A Go job processor and DAG orchestrator with at-least-once delivery, visibility-timeout recovery, weighted priority scheduling, idempotency, retries with jitter, and a Next.js control plane.
 
-## 🚀 Featured Projects
+`Go` `PostgreSQL` `Redis` `Next.js` `Prometheus`
 
-> I keep this section intentional.
-> Quality > Quantity.
+</td>
+<td width="50%" valign="top">
 
-### 🧩 ATS-Lite — Job & Internship Tracking System
+### [SyncForge](https://github.com/abhishekkumarcoder21/Syncforge---Real-Time-Collaborative-Document-Platform)
 
-**Tech:** React • Node • MongoDB
-📌 Smart tracking, follow-ups, recruiter workflow logic
-🔗 Repo: *add link*
+A real-time collaborative editor built around a from-scratch RGA CRDT, WebSockets, offline operation replay, presence, snapshots, and an operation log.
 
----
+`Go` `TypeScript` `React` `PostgreSQL` `Redis`
 
-### 🤖 AI / GenAI Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** Python • ML • LLMs
-📌 Intelligent systems, not toy demos
-🔗 Repo: *add link*
+### [CodeLens](https://github.com/abhishekkumarcoder21/CodeLens---AI-Code-Review-Platform)
 
----
+A self-hosted GitHub PR review pipeline that combines deterministic AST checks, bounded repository context, specialized LLM reviewers, finding deduplication, and resilient review posting.
 
-### 🧠 Backend / System-Focused Builds
+`Python` `FastAPI` `Next.js` `PostgreSQL` `Redis`
 
-📌 Real-world logic, scalability mindset
-🔗 Repo: *add link*
+</td>
+<td width="50%" valign="top">
 
----
+### [Real-Time Multiplayer Server](https://github.com/abhishekkumarcoder21/Real-Time-Multiplayer-Game-Server)
 
-<!-- ===================== PHILOSOPHY ===================== -->
+A server-authoritative WebSocket game server exploring fixed-timestep simulation, client prediction, reconciliation, lag compensation, input validation, and telemetry.
 
-## 📌 Engineering Philosophy
+`TypeScript` `Node.js` `WebSockets` `Docker` `Prometheus`
 
-* ❌ Fake productivity
-* ❌ Tutorial copy-paste
-* ✅ Deep understanding
-* ✅ Consistency
-* ✅ Long-term compounding
+</td>
+</tr>
+</table>
 
-> Most people quit when it gets boring.
-> That’s where I become consistent.
+## Why these projects
 
----
+The recurring question across the work is: **what happens when messages arrive late, twice, out of order, or from an untrusted client?**
 
-<!-- ===================== OPEN ===================== -->
+- **Workflow Engine** treats crashes and retries as normal operating conditions.
+- **SyncForge** makes concurrent edits converge instead of relying on a happy-path central sequence.
+- **CodeLens** puts deterministic checks before probabilistic reasoning and validates output before publishing it.
+- **Multiplayer Server** separates client responsiveness from server authority under network latency.
 
-## 📬 Open For
+<details>
+<summary><strong>Architecture patterns I keep returning to</strong></summary>
 
-* 🎯 Serious internships & entry-level roles
-* 🤝 Collaborations with builders
-* 🧠 Mentorship-driven environments
+- A durable source of truth paired with a fast, disposable coordination layer.
+- Explicit state transitions instead of implicit side effects.
+- Idempotency, bounded retries, and failure recovery at system boundaries.
+- Instrumentation as part of the design, not a final dashboard layer.
+- Small protocols that make trust and ownership visible.
 
----
+</details>
 
-<!-- ===================== SNAKE ===================== -->
+## Current technical map
+
+| Area | Evidence in the repositories |
+|---|---|
+| **Distributed systems** | Queues, DAG scheduling, visibility timeouts, CRDTs, WebSockets, fixed-timestep simulation |
+| **Backend engineering** | Go, Python, TypeScript/Node.js, FastAPI, PostgreSQL, Redis |
+| **AI-assisted tooling** | AST and regex analysis, context retrieval, token budgets, specialized review orchestration, evaluation workflows |
+| **Web products** | Next.js, React, TypeScript, dashboards, collaborative interfaces |
+| **Operations** | Docker Compose, GitHub Actions, Prometheus metrics, health checks, integration and load tests |
+| **Foundations** | C/C++, Java, Python, data structures and algorithms repositories |
+
+## A few deeper dives
+
+<details>
+<summary><strong>Workflow Engine — recovery is a feature</strong></summary>
+
+Jobs move through explicit queue and persistence states. Redis handles ephemeral priority dispatch; PostgreSQL remains the source of truth. A visibility timeout lets the system requeue work after a worker disappears, while idempotency keys protect submission from duplicate execution. The repository also documents starvation mitigation, dead-letter handling, DAG cycle detection, and chaos tests.
+
+→ [Read the architecture and trade-offs](https://github.com/abhishekkumarcoder21/Distributed-Workflow-Engine#-architecture)
+
+</details>
+
+<details>
+<summary><strong>SyncForge — convergence before convenience</strong></summary>
+
+The collaboration layer implements an RGA CRDT with Lamport timestamps, replica-aware operation IDs, tombstones, and deterministic ordering. Local edits render optimistically; operations are synchronized over WebSockets and persisted through snapshots plus an operation log. Presence and cross-instance coordination use Redis.
+
+→ [Read how the CRDT works](https://github.com/abhishekkumarcoder21/Syncforge---Real-Time-Collaborative-Document-Platform#how-the-crdt-works)
+
+</details>
+
+<details>
+<summary><strong>CodeLens — probabilistic tools need deterministic edges</strong></summary>
+
+The review pipeline parses diffs, runs static rules, retrieves only relevant repository context under a token budget, invokes specialized reviewers, validates line boundaries, deduplicates nearby findings, and falls back from inline comments when GitHub rejects line placement. That shape keeps AI useful without making it the only source of truth.
+
+→ [Read the review pipeline](https://github.com/abhishekkumarcoder21/CodeLens---AI-Code-Review-Platform#-system-architecture)
+
+</details>
+
+## Outside the flagship builds
+
+A broader set of repositories shows the same range: [multi-tenant resource isolation](https://github.com/abhishekkumarcoder21/Multi-Tenant-SaaS-Backend-with-Resource-Isolation), [real-time order tracking](https://github.com/abhishekkumarcoder21/Real-Time-Order-Tracking-System), [AI-enhanced OTFS channel estimation](https://github.com/abhishekkumarcoder21/AI-enhanced-tracking-and-Channel-Estimation-for-OTFS-Modulation), [multimodal chatbot](https://github.com/abhishekkumarcoder21/multimodal-chatbot), and smaller interactive, educational, and frontend experiments.
+
+## Contact
+
+The most reliable way to reach me is through [GitHub](https://github.com/abhishekkumarcoder21). My [portfolio](https://github.com/abhishekkumarcoder21/abhishek_kumar_portfolio) collects the broader project set.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhishekkumarcoder21/abhishekkumarcoder21/output/snake.svg" alt="Snake animation" />
+
+<sub>Built around a simple preference: make the hard parts explicit.</sub>
+
 </div>
